@@ -1,0 +1,21 @@
+{
+  "name": "nyc-to-obj",
+  "version": "1.0.0",
+  "description": "Convert nyc zipcodes to a format readable in Blender.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blender",
+    "OBJ",
+    "JSON",
+    "data",
+    "NYC"
+  ],
+  "author": "Cameron Browning",
+  "license": "ISC",
+  "dependencies": {
+    "geojson2obj": "^2.0.2"
+  }
+}
